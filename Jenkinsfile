@@ -1,1 +1,1 @@
-echo 'hello from Pipeline'
+build war identityq.war
